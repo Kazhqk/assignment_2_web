@@ -1,0 +1,57 @@
+.navbar{
+    background-image: linear-gradient(to right, #03406A, #24577B);
+
+}
+.navbar-nav li a{
+    color: floralwhite!important;
+}
+#About{
+    padding-top: 5% ;
+    font-size: 20px;
+   padding: 80 0px;
+}
+#About{
+    background: #0A64A4;
+    color: #fff;
+    padding-top: 5% ;
+    padding: 150px 0;
+}
+.promo-title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+    }
+    .img-fluid{
+        margin-top: -20%;
+        
+        
+
+    }
+#projects{
+    padding: 80px 0;
+}
+.box{
+    width: 300px;
+    margin-top: 20px;
+
+}
+.box img{
+    width: 300px;
+    margin-top: 20px;
+    position: relative;
+left:350px;
+top:-50px;
+}
+#container {
+    display: flex;
+    
+  }
+  .icons img {
+    width:  60px;
+    transition: 0.5s;
+    }
+#contact{
+    background-image: linear-gradient(to right, #03406A, #24577B) ;
+    color: #fff;
+}
+
